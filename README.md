@@ -1,2 +1,2 @@
-# A-star
-A star with ros and matlab
+# A*
+A* with ros and matlab
